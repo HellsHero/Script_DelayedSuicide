@@ -1,3 +1,6 @@
+if(isPackage(script_antiSuicide))
+    error("ERROR: Script_DelayedSuicide - Incompatible add-on is enabled! script_antiSuicide");
+
 $Server::delayedSuicide = 1; //Enable/disable script
 $Server::delayedSuicide::time = 10; //In seconds
 package script_delayedSuicide

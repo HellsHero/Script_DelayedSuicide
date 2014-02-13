@@ -1,0 +1,3 @@
+Title: Delayed Suicide
+Author: HellsHero
+After activating suicide, there is a time delay before the action is carried out.
